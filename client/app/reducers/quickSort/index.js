@@ -18,4 +18,4 @@ export const pivot = handleActions({
     return payload;
   },
 }, initialStateTwo);
- 
+  
