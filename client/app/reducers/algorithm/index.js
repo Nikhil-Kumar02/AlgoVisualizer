@@ -10,3 +10,4 @@ export const algorithm = handleActions({
     return payload;
   },
 }, initialState);
+ 
