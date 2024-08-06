@@ -14,3 +14,4 @@ export const currentSorted = handleActions({
     }
   },
 }, initialState);
+ 
